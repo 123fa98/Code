@@ -100,3 +100,7 @@ end);
 -- 把 MoonSec V3 脚本放在下面
 
 ```
+
+## 还原源码
+* 还原方法为使用AI
+* (谷歌AI)[aistudio.google.com]
