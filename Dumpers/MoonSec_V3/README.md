@@ -1,4 +1,5 @@
-# 教程
+#  Dump MoonSec V3 Script
+## 教程
 * 1.打开网络请求 [首页->游戏设置->安全->允许 HTTP 请求]
 * 2.在"ServerScriptService"的属性中勾选"LoadStringEnabled"
 * 3.在"ServerScriptService"创建一个"Script"
