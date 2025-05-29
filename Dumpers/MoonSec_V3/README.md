@@ -103,4 +103,4 @@ end);
 
 ## 还原源码
 * 还原方法为使用AI
-* [谷歌AI](aistudio.google.com)
+* [谷歌AI](https://aistudio.google.com/)
