@@ -2,4 +2,4 @@
 > 
 >
 > Dumper
-> > [Moonsec V3](#脚本制作教程打开控制台)
+> > [Moonsec V3](./Dumpers/MoonSec_V3)
