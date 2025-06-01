@@ -21,3 +21,5 @@ for _,v in next, getgc(true) do -- getgc()中的true代表是否获取游戏内�
     end
 end
 ```
+
+["返回"](./)
