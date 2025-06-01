@@ -1,3 +1,2 @@
-> > Script-Tutorial
-> > 
+> Script-Tutorial
 > [Getgc](./getgc.md)
